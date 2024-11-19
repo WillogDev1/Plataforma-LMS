@@ -108,6 +108,24 @@ A **Plataforma-LMS** é um sistema de gestão de cursos, trilhas de aprendizado 
 2. Efetua pagamento e acessa cursos ou trilhas disponíveis.
 3. Participa de grupos e acompanha seu progresso.
 
+## Tecnologias Usadas
+
+A plataforma foi desenvolvida utilizando as seguintes tecnologias e pacotes:
+
+### Tecnologias Principais
+- **Laravel**: Framework PHP para o desenvolvimento do backend.
+- **Vue.js**: Framework JavaScript para o desenvolvimento da interface do usuário no frontend.
+- **PHP**: Linguagem de programação utilizada no backend.
+- **MySQL**: Sistema de gerenciamento de banco de dados relacional para armazenar os dados.
+- **JavaScript**: Linguagem de programação para interatividade no frontend.
+
+### Pacotes e Ferramentas
+- **Jetstream**: Para gerenciamento de autenticação e controle de usuários.
+- **Inertia.js**: Para fornecer uma experiência SPA (Single Page Application) sem a necessidade de configurar um frontend separado.
+- **Spatie**: Pacote para gerenciamento de permissões e controle de acesso.
+
+
+
 ## Licença
 
 Este projeto está licenciado sob a licença [Nome da Licença].
