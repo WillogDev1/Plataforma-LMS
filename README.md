@@ -1,6 +1,6 @@
 # Plataforma-LMS
 
-A **Plataforma-LMS** é um sistema de gestão de cursos, trilhas de aprendizado e grupos de alunos, projetado para facilitar a criação, gerenciamento e acompanhamento do progresso educacional. A plataforma oferece uma experiência para alunos e professores, com controle de acesso, pagamento integrado e uma interface intuitiva.
+A **Plataforma-LMS** é um sistema de gestão de cursos, trilhas de aprendizado e grupos de alunos focado em olimpíadas escolares, projetado para facilitar a criação, gerenciamento e acompanhamento do progresso educacional. A plataforma oferece uma experiência para alunos e professores, com controle de acesso, pagamento integrado e uma interface intuitiva.
 
 ## Regras de Negócio
 
