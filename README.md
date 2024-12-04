@@ -114,10 +114,12 @@ A plataforma foi desenvolvida utilizando as seguintes tecnologias e pacotes:
 
 ### Tecnologias Principais
 - **Laravel**: Framework PHP para o desenvolvimento do backend.
-- **Vue.js**: Framework JavaScript para o desenvolvimento da interface do usuário no frontend.
+- **Blade**: Motor de templates do Laravel para renderização de interfaces no frontend.
+- **Livewire**: Framework full-stack para criação de interfaces dinâmicas e interativas diretamente com PHP.
 - **PHP**: Linguagem de programação utilizada no backend.
 - **MySQL**: Sistema de gerenciamento de banco de dados relacional para armazenar os dados.
-- **JavaScript**: Linguagem de programação para interatividade no frontend.
+- **JavaScript**: Linguagem de programação para interatividade no frontend (quando necessário).
+
 
 ### Pacotes e Ferramentas
 - **Jetstream**: Para gerenciamento de autenticação e controle de usuários.
